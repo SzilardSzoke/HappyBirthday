@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HappyBirthday</string>
+    <string name="happy_birthday_text">Happy Birthday, Rolko!</string>
+    <string name="signature_text">From Szilmos</string>
+    <string name="from_szilmos_signature_text">From Szilmos</string>
+    <string name="hull_a_pelyhes_feh_r_h_nem_j_n_majd_az_lom_man_text">Hull a pelyhes fehér hó, nem jön majd az álom manó!</string>
+    <string name="food_or_sleep_pls_button">Food, or sleep pls</string>
 </resources>
